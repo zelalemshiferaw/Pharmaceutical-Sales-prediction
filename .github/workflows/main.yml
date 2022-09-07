@@ -1,4 +1,4 @@
-name: Pharmaceutical-Sales-prediction
+name: twitter-data-analysis
 
 on:
   push:
@@ -26,4 +26,4 @@ jobs:
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
       - name: Test with pytest
         run: |
-          python -m pytest
+          python -m pytest tests/test*.py
