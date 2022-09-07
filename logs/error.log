@@ -1,0 +1,32 @@
+2022-09-07 13:31:56,810:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:00:59,649:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:02:10,573:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:03:27,113:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:18:44,046:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:18:51,968:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:23:56,625:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:25:58,205:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:27:11,448:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:28:36,227:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:32:13,306:logger:Can't find '../data/store.csv' neither locally nor on remote
+2022-09-07 19:32:44,681:logger:Can't find '../data/store.csv' neither locally nor on remote
+2022-09-07 19:33:36,541:logger:Can't find 'data/store.csv' neither locally nor on remote
+2022-09-07 19:33:53,301:logger:Can't find './data/store.csv' neither locally nor on remote
+2022-09-07 19:34:24,524:logger:local variable 'repo' referenced before assignment
+2022-09-07 19:34:50,178:logger:local variable 'repo' referenced before assignment
+2022-09-07 19:35:33,175:logger:local variable 'repo' referenced before assignment
+2022-09-07 19:35:56,611:logger:Can't find './data/store.csv' neither locally nor on remote
+2022-09-07 19:36:13,196:logger:Can't find '../data/store.csv' neither locally nor on remote
+2022-09-07 19:36:18,780:logger:Can't find 'data/store.csv' neither locally nor on remote
+2022-09-07 19:36:28,059:logger:Can't find '/data/store.csv' neither locally nor on remote
+2022-09-07 19:51:21,407:logger:Can't find '../data/store.csv' neither locally nor on remote

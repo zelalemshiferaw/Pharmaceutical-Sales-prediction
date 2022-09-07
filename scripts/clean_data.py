@@ -321,4 +321,3 @@ class CleanDataFrame:
         except Exception as e:
             logger.error(e)
         return df
-Footer

@@ -1,0 +1,111 @@
+2022-09-07 13:31:56,810:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:00:59,649:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:02:10,573:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:03:27,113:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:18:44,046:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:18:51,968:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:23:56,625:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:25:58,205:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:27:11,448:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:28:36,227:logger:config file error: no remote specified. Create a default remote with
+    dvc remote add -d <remote name> <remote url>
+2022-09-07 19:32:13,306:logger:Can't find '../data/store.csv' neither locally nor on remote
+2022-09-07 19:32:44,681:logger:Can't find '../data/store.csv' neither locally nor on remote
+2022-09-07 19:33:36,541:logger:Can't find 'data/store.csv' neither locally nor on remote
+2022-09-07 19:33:53,301:logger:Can't find './data/store.csv' neither locally nor on remote
+2022-09-07 19:34:24,524:logger:local variable 'repo' referenced before assignment
+2022-09-07 19:34:50,178:logger:local variable 'repo' referenced before assignment
+2022-09-07 19:35:33,175:logger:local variable 'repo' referenced before assignment
+2022-09-07 19:35:56,611:logger:Can't find './data/store.csv' neither locally nor on remote
+2022-09-07 19:36:13,196:logger:Can't find '../data/store.csv' neither locally nor on remote
+2022-09-07 19:36:18,780:logger:Can't find 'data/store.csv' neither locally nor on remote
+2022-09-07 19:36:28,059:logger:Can't find '/data/store.csv' neither locally nor on remote
+2022-09-07 19:51:21,407:logger:Can't find '../data/store.csv' neither locally nor on remote
+2022-09-07 19:55:10,825:logger:The dataset contains 21.01 % missing values.
+2022-09-07 19:55:45,055:logger:unique values for CompetitionOpenSinceMonth  [ 9. 11. 12.  4. 10.  8. nan  3.  6.  5.  1.  2.  7.]
+2022-09-07 19:55:45,061:logger:unique values for CompetitionOpenSinceYear  [2008. 2007. 2006. 2009. 2015. 2013. 2014. 2000. 2011.   nan 2010. 2005.
+ 1999. 2003. 2012. 2004. 2002. 1961. 1995. 2001. 1990. 1994. 1900. 1998.]
+2022-09-07 19:55:45,070:logger:unique values for promo2sinceweek  [nan 13. 14.  1. 45. 40. 26. 22.  5.  6. 10. 31. 37.  9. 39. 27. 18. 35.
+ 23. 48. 36. 50. 44. 49. 28.]
+2022-09-07 19:55:45,072:logger:unique values for Promo2SinceYear  [  nan 2010. 2011. 2012. 2009. 2014. 2015. 2013.]
+2022-09-07 19:55:45,079:logger:unique values for PromoInterval  [nan 'Jan,Apr,Jul,Oct' 'Feb,May,Aug,Nov' 'Mar,Jun,Sept,Dec']
+2022-09-07 19:57:39,329:logger:successfully fixed missing values of CompetitionOpenSinceYear column with 1990
+2022-09-07 19:57:39,333:logger:successfully fixed missing values of CompetitionOpenSinceMonth column with 1
+2022-09-07 19:57:39,336:logger:successfully fixed missing values of Promo2SinceWeek column with 0
+2022-09-07 19:57:39,338:logger:successfully fixed missing values of Promo2SinceYear column with 0
+2022-09-07 19:57:39,341:logger:successfully fixed missing values of PromoInterval column with Nan,Nan,Nan,Nan
+2022-09-07 19:57:56,284:logger:successfully fixed missing values of CompetitionDistance column with 75860.0
+2022-09-07 19:58:21,117:logger:successfully changed PromoInterval column to string
+2022-09-07 19:58:21,125:logger:successfully changed StoreType column to string
+2022-09-07 19:58:21,132:logger:successfully changed Assortment column to string
+2022-09-07 19:58:21,137:logger:successfully changed StateHoliday column to string
+2022-09-07 19:58:21,139:logger:successfully changed Date column to datetime
+2022-09-07 19:58:21,141:logger:successfully changed CompetitionOpenSinceYear column to integer
+2022-09-07 19:58:21,149:logger:successfully changed CompetitionOpenSinceMonth column to integer
+2022-09-07 19:58:21,153:logger:successfully changed Promo2SinceWeek column to integer
+2022-09-07 19:58:21,164:logger:successfully changed Promo2SinceYear column to integer
+2022-09-07 19:58:21,165:logger:successfully finished fixing datatype
+2022-09-07 19:58:48,588:logger:successfully droped duplicates
+2022-09-07 20:01:35,272:logger:The dataset contains 0.0 % missing values.
+2022-09-07 20:01:58,998:logger:unique values for StateHoliday  ['0' 'a' 'b' 'c' 0]
+2022-09-07 20:02:28,068:logger:successfully replaced value of StateHoliday column with 0
+2022-09-07 20:02:28,134:logger:unique values for StateHoliday  ['0' 'a' 'b' 'c']
+2022-09-07 20:03:13,122:logger:successfully changed PromoInterval column to string
+2022-09-07 20:03:13,124:logger:successfully changed StoreType column to string
+2022-09-07 20:03:13,126:logger:successfully changed Assortment column to string
+2022-09-07 20:03:13,244:logger:successfully changed StateHoliday column to string
+2022-09-07 20:03:13,522:logger:successfully changed Date column to datetime
+2022-09-07 20:03:13,525:logger:successfully changed CompetitionOpenSinceYear column to integer
+2022-09-07 20:03:13,526:logger:successfully changed CompetitionOpenSinceMonth column to integer
+2022-09-07 20:03:13,529:logger:successfully changed Promo2SinceWeek column to integer
+2022-09-07 20:03:13,538:logger:successfully changed Promo2SinceYear column to integer
+2022-09-07 20:03:13,544:logger:successfully finished fixing datatype
+2022-09-07 20:03:44,836:logger:successfully droped duplicates
+2022-09-07 20:05:43,876:logger:The dataset contains 0.0 % missing values.
+2022-09-07 20:06:18,151:logger:successfully changed PromoInterval column to string
+2022-09-07 20:06:18,158:logger:successfully changed StoreType column to string
+2022-09-07 20:06:18,160:logger:successfully changed Assortment column to string
+2022-09-07 20:06:18,166:logger:successfully changed StateHoliday column to string
+2022-09-07 20:06:18,182:logger:successfully changed Date column to datetime
+2022-09-07 20:06:18,184:logger:successfully changed CompetitionOpenSinceYear column to integer
+2022-09-07 20:06:18,187:logger:successfully changed CompetitionOpenSinceMonth column to integer
+2022-09-07 20:06:18,189:logger:successfully changed Promo2SinceWeek column to integer
+2022-09-07 20:06:18,191:logger:successfully changed Promo2SinceYear column to integer
+2022-09-07 20:06:18,193:logger:successfully finished fixing datatype
+2022-09-07 20:06:42,339:logger:successfully droped duplicates
+2022-09-07 20:09:56,083:logger:successfully displayed histogram plot
+2022-09-07 20:10:12,973:logger:successfully displayed histogram plot
+2022-09-07 20:15:04,279:logger:successfully displayed bar plot
+2022-09-07 20:15:04,714:logger:successfully displayed bar plot
+2022-09-07 20:15:52,818:logger:successfully displayed bar plot
+2022-09-07 20:16:21,767:logger:successfully displayed count plot
+2022-09-07 20:16:57,298:logger:successfully displayed count plot
+2022-09-07 20:17:26,272:logger:successfully displayed count plot
+2022-09-07 20:21:25,530:logger:successfully displayed count plot
+2022-09-07 20:21:39,631:logger:successfully displayed count plot
+2022-09-07 20:21:55,213:logger:successfully displayed heatmap plot
+2022-09-07 20:24:28,077:logger:promo usage for the train data is 38.151451668241236 %
+2022-09-07 20:24:28,084:logger:promo usage for the test data is 39.583333333333336 %
+2022-09-07 20:28:03,131:logger:              Sales  Customers
+Sales      1.000000   0.894711
+Customers  0.894711   1.000000
+2022-09-07 20:28:03,279:logger:successfully displayed heatmap plot
+2022-09-07 20:28:30,458:logger:promotions have increase the mean of sales by 81.3676782076572 %
+2022-09-07 20:28:30,460:logger:promotions have increase the mean of customers by 58.37418513261995 %
+2022-09-07 20:30:00,045:logger: increase on all store with average is 62.184235408598724
+2022-09-07 20:31:19,668:logger:              Promo  Customers
+Promo      1.000000   0.316169
+Customers  0.316169   1.000000
+2022-09-07 20:31:19,804:logger:successfully displayed heatmap plot
+2022-09-07 20:32:43,361:logger:successfully displayed catplot plot
+2022-09-07 20:34:13,336:logger:successfully displayed catplot plot
+2022-09-07 20:34:53,829:logger:successfully displayed heatmap plot

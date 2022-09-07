@@ -7,7 +7,7 @@ from logger import logger
 
 sys.path.append(os.path.abspath(os.path.join("./scripts/")))
 
-class readdata():
+class ReadData():
     def dvc_get_data(self, path, version='v1') :
         try:
             repo = "/home/zelax/10Accademy/Pharmaceutical-Sales-prediction"
