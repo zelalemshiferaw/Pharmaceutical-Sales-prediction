@@ -4,7 +4,7 @@
 
 **Table of content**
 
- [ Pharmaceutical-Sales-prediction](# Pharmaceutical-Sales-prediction)
+ [Pharmaceutical-Sales-prediction](#Pharmaceutical-Sales-prediction)
   - [Overview](#overview)
   - [Installation](#installation)
   - [Data](#data)
