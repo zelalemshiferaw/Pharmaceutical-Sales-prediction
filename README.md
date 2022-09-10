@@ -6,6 +6,7 @@
 
  [Pharmaceutical-Sales-prediction](#Pharmaceutical-Sales-prediction)
   - [Overview](#overview)
+  - [MLOps Design](#mlops-design)
   - [Installation](#installation)
   - [Data](#data)
   - [Project Structure](#project-Structure)
@@ -20,6 +21,9 @@
 <p>
 Rossmann Pharmaceuticals is an pharmaceuticals company that has multiple stores across several cities.Their finance team wants to forecast sales in all their stores across several cities six weeks ahead of time.The data team identified factors such as promotions, competition, school and state holidays, seasonality, and locality as necessary for predicting the sales.The task is to build and serve an end-to-end product that delivers this prediction to analysts in the finance team.
 </p>
+
+## MLOps Design
+MLOps-Cycle-1500x837.png
 
 ## Installation
 
