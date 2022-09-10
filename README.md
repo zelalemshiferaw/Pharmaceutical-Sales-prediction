@@ -23,7 +23,10 @@ Rossmann Pharmaceuticals is an pharmaceuticals company that has multiple stores 
 </p>
 
 ## MLOps Design
-MLOps-Cycle-1500x837.png
+
+![Alt text](MLOps_Cycle.png?raw=true "MLOps Design")
+
+
 
 ## Installation
 
