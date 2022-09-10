@@ -109,3 +109,11 @@ Customers  0.316169   1.000000
 2022-09-07 20:32:43,361:logger:successfully displayed catplot plot
 2022-09-07 20:34:13,336:logger:successfully displayed catplot plot
 2022-09-07 20:34:53,829:logger:successfully displayed heatmap plot
+2022-09-10 11:43:14,102:logger:successfully got catagorical columns
+2022-09-10 11:43:19,575:logger:successfully got catagorical columns
+2022-09-10 11:43:19,793:logger:successfully got numerical columns
+2022-09-10 11:45:19,816:logger:RMSE Score: 866.5740152106698
+2022-09-10 11:45:19,838:logger:R2_Squared: 0.9490990116207806
+2022-09-10 11:45:19,840:logger:MAE Score: 506.40923899686396
+2022-09-10 11:45:19,899:logger:Accuracy: 90.78 %.
+2022-09-10 11:45:20,387:logger:feature importance plotted

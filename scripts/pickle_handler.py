@@ -38,4 +38,3 @@ class HandlePickle():
         Parameters
         """
         return self.data
-Footer

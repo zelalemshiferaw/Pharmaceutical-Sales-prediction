@@ -19,7 +19,7 @@ import dvc.api
 import io
 import mlflow
 import time
-from cleaner import CleanDataFrame
+from clean_data import CleanDataFrame
 
 import matplotlib.pyplot as plt
 import pandas as pd
